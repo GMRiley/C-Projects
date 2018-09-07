@@ -1,0 +1,17 @@
+﻿Build started 12/5/2017 11:56:44 AM.
+     1>Project "Z:\C++\Lab7\Lab7\Lab7.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab7.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lab7.vcxproj -> Z:\C++\Lab7\Debug\Lab7.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab7.unsuccessfulbuild".
+         Touching "Debug\Lab7.lastbuildstate".
+     1>Done Building Project "Z:\C++\Lab7\Lab7\Lab7.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04

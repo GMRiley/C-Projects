@@ -1,0 +1,21 @@
+﻿Build started 11/9/2017 12:40:03 PM.
+     1>Project "Z:\C++\FlowPrompt\FlowPrompt\FlowPrompt.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\FlowPrompt.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FlowPrompt.cpp
+         FlowPrompt.cpp
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Z:\C++\FlowPrompt\Debug\FlowPrompt.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\FlowPrompt.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"Z:\C++\FlowPrompt\Debug\FlowPrompt.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Z:\C++\FlowPrompt\Debug\FlowPrompt.lib" /MACHINE:X86 Debug\FlowPrompt.obj
+         LINK : Z:\C++\FlowPrompt\Debug\FlowPrompt.exe not found or not built by the last incremental link; performing full link
+         FlowPrompt.vcxproj -> Z:\C++\FlowPrompt\Debug\FlowPrompt.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Z:\C++\FlowPrompt\Debug\FlowPrompt.exe;#1" /manifest Debug\FlowPrompt.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\FlowPrompt.unsuccessfulbuild".
+         Touching "Debug\FlowPrompt.lastbuildstate".
+     1>Done Building Project "Z:\C++\FlowPrompt\FlowPrompt\FlowPrompt.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.76

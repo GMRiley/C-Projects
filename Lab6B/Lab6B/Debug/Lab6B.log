@@ -1,0 +1,17 @@
+﻿Build started 12/7/2017 12:49:58 PM.
+     1>Project "Z:\C++\Lab6B\Lab6B\Lab6B.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Lab6B.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Lab6B.vcxproj -> Z:\C++\Lab6B\Debug\Lab6B.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Lab6B.unsuccessfulbuild".
+         Touching "Debug\Lab6B.lastbuildstate".
+     1>Done Building Project "Z:\C++\Lab6B\Lab6B\Lab6B.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.05
